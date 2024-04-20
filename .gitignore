@@ -1,0 +1,13 @@
+**/build/*
+build/*
+.Xil
+*.jou
+vivado*
+vitis*
+*.log
+**/software/*
+!**/software/proj_app
+**/software/proj_app/*
+!**/software/proj_app/src
+!**/software/proj_gen.tcl
+!**/software/proj_run.tcl
