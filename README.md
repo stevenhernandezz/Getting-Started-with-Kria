@@ -1,5 +1,5 @@
 # Getting-Started-with-Kria
-This project involves managing LED control for the Kria kv260 board.
+This project involves managing LED control for the Xilinx Kria kv260 development board.
  
 ## Description
 For this project uses Vitis and Vivado to power on an LED using HDL and using bare-metal software. 
